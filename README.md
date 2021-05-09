@@ -7,8 +7,7 @@
 ![Netlify](https://img.shields.io/netlify/f1820a7f-77bd-49c8-86cf-76ec43d6f704)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f1820a7f-77bd-49c8-86cf-76ec43d6f704/deploy-status)](https://app.netlify.com/sites/felipepacheco-dsvendas/deploys)
 
-## Exemplos
->Análise de Vendas por Vendedor
+## Examples
 
 ![image](https://user-images.githubusercontent.com/18306550/117514310-6f722a80-af8b-11eb-800d-592ed80a94f7.png)
 
