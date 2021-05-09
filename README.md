@@ -26,7 +26,7 @@
 ## Issue
 [![Issues](https://img.shields.io/github/issues/pachecodt/projeto-sds3.svg?style=flat-square)](https://github.com/pachecodt/projeto-sds3/issues)
 
-##Contributing
+## Contributing
 ------------
 
  1. **Fork** the repo on GitHub
