@@ -1,17 +1,18 @@
 # DSVendas
 >Sales Dashboard
 
+## Topics
+* [Build and Deploy](#build-and-deploy)
+* [Examples](#examples)
+* [Tecnologies](#tecnologies)
+* [How to Run](#how-to-run)
+* [Issue](#issue)
+* [Contributing](#contributing)
 
 ## Build and Deploy
 
 ![Netlify](https://img.shields.io/netlify/f1820a7f-77bd-49c8-86cf-76ec43d6f704)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f1820a7f-77bd-49c8-86cf-76ec43d6f704/deploy-status)](https://app.netlify.com/sites/felipepacheco-dsvendas/deploys)
-
-## Topics
-* [Examples](#examples)
-* [Tecnologies](#tecnologies)
-* [Issue](#issue)
-* [Contributing](#contributing)
 
 ## Examples
 
