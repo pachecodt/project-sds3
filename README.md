@@ -35,13 +35,14 @@
 >Frontend
 >```
 >npm install
+>
 >npm start
 >```
 
 >Backend
 > Bakend 
 > 
-> **Java Spring**
+> **Java Spring Boot**
 > 
 > OBS: Default port for localhost is **8090**
 
