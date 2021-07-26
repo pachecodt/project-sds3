@@ -13,6 +13,7 @@
 
 ![Netlify](https://img.shields.io/netlify/f1820a7f-77bd-49c8-86cf-76ec43d6f704)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f1820a7f-77bd-49c8-86cf-76ec43d6f704/deploy-status)](https://app.netlify.com/sites/felipepacheco-dsvendas/deploys)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Examples
 
@@ -33,17 +34,15 @@
 
 ## How to Run
 >Frontend
->```
->npm install
->
->npm start
->```
+```js
+npm install
+
+npm start
+```
 
 >Backend
-> Bakend 
-> 
 > **Java Spring Boot**
-> 
+
 > OBS: Default port for localhost is **8090**
 
 ## Issue
